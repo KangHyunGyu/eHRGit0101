@@ -4,11 +4,12 @@ First Git
 ## 좋은하루 되세요.
 V_Gyu
 
-## 조장
-V_Gyu
+### 조장
+정진우
 
-## 팀원
-SoDaneg
-Sohyun
-Taller88
-MinjiKim
+### 팀원
+박성연
+강현규
+박승종
+김소현
+작민지
