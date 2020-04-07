@@ -6,6 +6,7 @@ public class HelloWorld {
 
 		System.out.println("Hello, Gyu");
 		System.out.println("I'm SoDaeng");
+		System.out.println("오점뭐?");
 	}
 
 }
