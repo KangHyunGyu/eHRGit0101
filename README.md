@@ -52,4 +52,11 @@ V_Gyu
 ## 코드 블록  
 ``` 프로그래밍 언어이름  
 코드 내용  
+```  
+
+```python  
+def func():
+print "HR Kim"  
+print "Spring"  
+pass  
 ```
